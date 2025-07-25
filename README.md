@@ -1,9 +1,3 @@
-# 📦 Early-Morning Delivery Market Analysis
-
-A data analysis project focusing on trends, customer behavior, and logistics in Korea’s rapidly growing early-morning delivery industry.
-
----
-
 ## 📊 프로젝트 개요
 
 ![요약 이미지](./images/새벽배송.png)
